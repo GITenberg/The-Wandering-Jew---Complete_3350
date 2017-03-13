@@ -1,11 +1,9 @@
 _repo: The-Wandering-Jew---Complete_3350
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Le Juif errant. English
 covers:
 - cover_type: archival
-  image_path: 3350/3350-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 3350-h/images/cover.jpg
 creator:
   author:
     agent_name: Sue, Eugène
@@ -18,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1186
     wikipedia: http://en.wikipedia.org/wiki/Eugène_Sue
 description: Translation of Le Juif errant.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3350#The-Wandering-Jew---Complete
 gutenberg_issued: '2004-10-25'
 gutenberg_type: Text
 identifiers:
